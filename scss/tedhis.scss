@@ -1,0 +1,13 @@
+/********** compass ********************/
+@import "compass/css3";
+/******** Jeet **********/
+@import "../bower_components/jeet.gs/scss/jeet/index";
+/*************** variables *************/
+	$base-rem:1rem;
+	$nav:250px;
+/********** viewpport ****************/
+html {
+    overflow-y: scroll; /* 1 */
+    min-height: 100%;
+    font-size: 75%;
+}
