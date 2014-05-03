@@ -1,0 +1,4 @@
+my-gruntfile
+============
+
+Gruntfile example
